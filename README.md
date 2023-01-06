@@ -1,4 +1,4 @@
-### JS Coombinatorics Perfomance Issue
+### JS Combinatorics Perfomance Issue
 
 This respository demonstrates a huge performance degradation in js-cobinatorics library.
 It shows how long it takes to iterate through all of the combinations of selecting 3 items from a 200 items array.
