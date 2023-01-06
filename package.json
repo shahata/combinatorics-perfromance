@@ -2,10 +2,36 @@
   "name": "combinatorics-perfromance",
   "type": "module",
   "scripts": {
+    "postinstall": "node fix.js",
     "test": "node index.js"
   },
   "dependencies": {
     "js-combinatorics061": "npm:js-combinatorics@^0.6.1",
+    "js-combinatorics100": "npm:js-combinatorics@^1.0.0",
+    "js-combinatorics110": "npm:js-combinatorics@^1.1.0",
+    "js-combinatorics111": "npm:js-combinatorics@^1.1.1",
+    "js-combinatorics120": "npm:js-combinatorics@^1.2.0",
+    "js-combinatorics121": "npm:js-combinatorics@^1.2.1",
+    "js-combinatorics122": "npm:js-combinatorics@^1.2.2",
+    "js-combinatorics123": "npm:js-combinatorics@^1.2.3",
+    "js-combinatorics130": "npm:js-combinatorics@^1.3.0",
+    "js-combinatorics140": "npm:js-combinatorics@^1.4.0",
+    "js-combinatorics141": "npm:js-combinatorics@^1.4.1",
+    "js-combinatorics142": "npm:js-combinatorics@^1.4.2",
+    "js-combinatorics143": "npm:js-combinatorics@^1.4.3",
+    "js-combinatorics144": "npm:js-combinatorics@^1.4.4",
+    "js-combinatorics145": "npm:js-combinatorics@^1.4.5",
+    "js-combinatorics150": "npm:js-combinatorics@^1.5.0",
+    "js-combinatorics151": "npm:js-combinatorics@^1.5.1",
+    "js-combinatorics152": "npm:js-combinatorics@^1.5.2",
+    "js-combinatorics153": "npm:js-combinatorics@^1.5.3",
+    "js-combinatorics154": "npm:js-combinatorics@^1.5.4",
+    "js-combinatorics155": "npm:js-combinatorics@^1.5.5",
+    "js-combinatorics156": "npm:js-combinatorics@^1.5.6",
+    "js-combinatorics157": "npm:js-combinatorics@^1.5.7",
+    "js-combinatorics200": "npm:js-combinatorics@^2.0.0",
+    "js-combinatorics201": "npm:js-combinatorics@^2.0.1",
+    "js-combinatorics210": "npm:js-combinatorics@^2.1.0",
     "js-combinatorics211": "npm:js-combinatorics@^2.1.1"
   }
 }
