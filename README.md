@@ -17,3 +17,5 @@ Combinatorics 2.1.1: 392049900 (71531ms)
 ```
 
 It shows how the exact same iteration takes under 1 seconds in version 0.6.1 vs more than a minute in version 2.1.1
+
+Reported here: https://github.com/dankogai/js-combinatorics/issues/75
